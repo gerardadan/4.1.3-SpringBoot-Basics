@@ -35,7 +35,7 @@ Set up and test two Spring Boot projects (one built with Maven and another with 
 * Suggested URL format: `{{Servidor}}:{{Port}}/HelloWorld/elmeunom` or any valid endpoint implemented in the projects.
 * Maven:
   ---
-  ![Alt Text](Environment_MavenMaven_01.png)
+  ![Alt Text](Maven_01.png)
   ---
   
   ---
